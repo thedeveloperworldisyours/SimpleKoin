@@ -1,4 +1,3 @@
-# SimpleKoin.
+# SimpleKoin
 
-
-How to start Koin from your Kotlin app
+How to start Koin from your Kotlin app step by step
